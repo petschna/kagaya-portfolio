@@ -10,8 +10,7 @@ import { BrowserRouter as Router } from "react-router-dom";
  * Navbar: Global navigation bar
  */
 import {
-  Footer,
-  Navbar,
+
 } from "./components/molecules";
 // Routes
 import Routes from "./Routes";
@@ -21,11 +20,11 @@ class App extends React.Component {
     return (
       <Router>
         <div className="flyout">
-          <Navbar />
+ 
           <main>
             <Routes />
           </main>
-          <Footer />
+ 
         </div>
       </Router>
     );
