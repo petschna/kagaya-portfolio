@@ -48,7 +48,6 @@ class SectionHeader extends React.Component {
                     />
                   </div>
                 </div>
-
               </MDBCol>
             </MDBRow>
           </MDBContainer>
