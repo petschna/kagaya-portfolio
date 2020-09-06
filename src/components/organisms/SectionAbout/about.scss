@@ -1,0 +1,44 @@
+@font-face {
+    font-family: Existence;
+    src: url(../../../assets/ExiL-TT/Existence-Light.ttf);
+}
+
+.header {
+    font-family: Leaner-Thin;
+    font-size: 1.5em;
+    margin-bottom: 0.8em;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+}
+
+.banner {
+    width: 100vw;
+}
+
+.name {
+    margin-bottom: 1em;
+    font-weight: bold;
+    color: black;
+}
+
+.aboutcolumn {
+    font-family: Existence;
+    font-size: 4em;
+    height: 107.3vh;
+    text-align: center;
+}
+
+.text {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
+
+img.picture {
+    width: 32.8vw;
+    height: auto;
+}
