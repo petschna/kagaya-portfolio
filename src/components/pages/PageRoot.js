@@ -19,7 +19,7 @@ import {
 } from "mdbreact";
 
 import {
-  SectionHeader
+  SectionHeader,
   SectionAbout
 } from "../organisms";
 
