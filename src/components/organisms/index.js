@@ -1,9 +1,11 @@
 //> Components
 // Import all components to export them for easy access from parent components
-
+import SectionHeader from "./SectionHeader";
+import SectionAbout from "./SectionAbout";
 
 export {
-
+    SectionHeader
+    SectionAbout,
 };
 
 /**

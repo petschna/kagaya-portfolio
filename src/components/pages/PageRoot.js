@@ -19,7 +19,7 @@ import {
 } from "mdbreact";
 
 import {
-  
+  SectionHeader
 } from "../organisms";
 
 //> CSS
@@ -29,7 +29,7 @@ class HomePage extends React.Component {
   render() {
     return (
       <>
-        
+        <SectionHeader/>
       </>
     );
   }
