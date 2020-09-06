@@ -20,6 +20,7 @@ import {
 
 import {
   SectionHeader
+  SectionAbout
 } from "../organisms";
 
 //> CSS
@@ -30,6 +31,7 @@ class HomePage extends React.Component {
     return (
       <>
         <SectionHeader/>
+        <SectionAbout/>
       </>
     );
   }
