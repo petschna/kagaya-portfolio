@@ -4,7 +4,7 @@ import SectionHeader from "./SectionHeader";
 import SectionAbout from "./SectionAbout";
 
 export {
-    SectionHeader
+    SectionHeader,
     SectionAbout,
 };
 
